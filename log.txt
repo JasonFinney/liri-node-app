@@ -1,0 +1,167 @@
+
+
+Concert Number: 1
+Name of the Venue: Emerson Theater
+Venue location: Indianapolis, IN
+Date: 2018-09-07
+---------------------------------------------
+
+Concert Number: 2
+Name of the Venue: Toyota Park
+Venue location: Bridgeview, IL
+Date: 2018-09-08
+---------------------------------------------
+
+Concert Number: 5
+Name of the Venue: The Warehouse
+Venue location: Clarksville, TN
+Date: 2018-09-14
+---------------------------------------------
+
+Concert Number: 4
+Name of the Venue: The Firmament
+Venue location: Greenville, SC
+Date: 2018-09-13
+---------------------------------------------
+
+Concert Number: 3
+Name of the Venue: Carl's Tavern
+Venue location: New Haven, IN
+Date: 2018-09-09
+---------------------------------------------
+
+Concert Number: 6
+Name of the Venue: Legends Bar & Venue
+Venue location: Cincinnati, OH
+Date: 2018-09-22
+---------------------------------------------
+
+Concert Number: 8
+Name of the Venue: Saint Lucie County Fairgrounds
+Venue location: Fort Pierce, FL
+Date: 2018-12-08
+---------------------------------------------
+
+Concert Number: 7
+Name of the Venue: Leftwoods
+Venue location: Amarillo, TX
+Date: 2018-09-29
+---------------------------------------------
+Concert Number: 1
+Name of the Venue: Emerson Theater
+Venue location: Indianapolis, IN
+Date: 2018-09-07
+---------------------------------------------
+Concert Number: 2
+Name of the Venue: Toyota Park
+Venue location: Bridgeview, IL
+Date: 2018-09-08
+---------------------------------------------
+Concert Number: 4
+Name of the Venue: The Firmament
+Venue location: Greenville, SC
+Date: 2018-09-13
+---------------------------------------------
+Concert Number: 3
+Name of the Venue: Carl's Tavern
+Venue location: New Haven, IN
+Date: 2018-09-09
+---------------------------------------------
+Concert Number: 6
+Name of the Venue: Legends Bar & Venue
+Venue location: Cincinnati, OH
+Date: 2018-09-22
+---------------------------------------------
+Concert Number: 5
+Name of the Venue: The Warehouse
+Venue location: Clarksville, TN
+Date: 2018-09-14
+---------------------------------------------
+Concert Number: 7
+Name of the Venue: Leftwoods
+Venue location: Amarillo, TX
+Date: 2018-09-29
+---------------------------------------------
+Concert Number: 8
+Name of the Venue: Saint Lucie County Fairgrounds
+Venue location: Fort Pierce, FL
+Date: 2018-12-08
+---------------------------------------------
+Spotify Search: 
+Track Name: We Will Rock You - Remastered 2011
+Album Name: News Of The World (Deluxe Remastered Version)
+Artist Name: Queen
+Link: https://api.spotify.com/v1/tracks/54flyrjcdnQdco7300avMJ
+---------------------------------------------
+OMDB Search: 
+Title: Titanic
+Release Date: 1997
+IMDB Rating: 7.8/10
+Rotten Tomatos Rating: 88%
+Country: USA
+LanguageEnglish, Swedish
+ActorsLeonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates
+Plot Summary: A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.
+---------------------------------------------
+OMDB Search: 
+Title: Titanic
+Release Date: 1997
+IMDB Rating: 7.8/10
+Rotten Tomatos Rating: 88%
+Country: USA
+LanguageEnglish, Swedish
+ActorsLeonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates
+Plot Summary: A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.
+---------------------------------------------
+Spotify Search: 
+Track Name: We Will Rock You - Remastered 2011
+Album Name: News Of The World (Deluxe Remastered Version)
+Artist Name: Queen
+Link: https://api.spotify.com/v1/tracks/54flyrjcdnQdco7300avMJ
+---------------------------------------------
+Concert Number: 1
+Name of the Venue: Emerson Theater
+Venue location: Indianapolis, IN
+Date: 2018-09-07
+---------------------------------------------
+Concert Number: 4
+Name of the Venue: The Firmament
+Venue location: Greenville, SC
+Date: 2018-09-13
+---------------------------------------------
+Concert Number: 5
+Name of the Venue: The Warehouse
+Venue location: Clarksville, TN
+Date: 2018-09-14
+---------------------------------------------
+Concert Number: 3
+Name of the Venue: Carl's Tavern
+Venue location: New Haven, IN
+Date: 2018-09-09
+---------------------------------------------
+Concert Number: 2
+Name of the Venue: Toyota Park
+Venue location: Bridgeview, IL
+Date: 2018-09-08
+---------------------------------------------
+Concert Number: 6
+Name of the Venue: Legends Bar & Venue
+Venue location: Cincinnati, OH
+Date: 2018-09-22
+---------------------------------------------
+Concert Number: 7
+Name of the Venue: Leftwoods
+Venue location: Amarillo, TX
+Date: 2018-09-29
+---------------------------------------------
+Concert Number: 8
+Name of the Venue: Saint Lucie County Fairgrounds
+Venue location: Fort Pierce, FL
+Date: 2018-12-08
+---------------------------------------------
+Spotify Search: 
+Track Name: We Will Rock You - Remastered 2011
+Album Name: News Of The World (Deluxe Remastered Version)
+Artist Name: Queen
+Link: https://api.spotify.com/v1/tracks/54flyrjcdnQdco7300avMJ
+---------------------------------------------
